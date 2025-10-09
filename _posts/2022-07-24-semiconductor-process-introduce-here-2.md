@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /process/introduce/
+permalink: /process/photo/
 
 toc: true
 toc_sticky: true
