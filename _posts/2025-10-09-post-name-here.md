@@ -3,7 +3,7 @@ title: "포토 공정"
 excerpt: "반도체 공정중 포토 공정 원리 및 과정"
 
 categories:
-  - 공정
+  - 소자
 tags:
   - [tag1, tag2]
 
