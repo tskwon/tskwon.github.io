@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories/category1/
+permalink: /memory/memory/
 
 toc: true
 toc_sticky: true
