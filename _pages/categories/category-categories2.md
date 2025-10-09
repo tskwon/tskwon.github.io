@@ -1,11 +1,12 @@
 ---
-title: "공정"
+title: "소자"
 layout: category
-permalink: /category/1/
+permalink: /device
 author_profile: true
-taxonomy: 공정
+taxonomy: 소자
 sidebar:
   nav: "categories"
 ---
+
 
 
