@@ -1,10 +1,11 @@
 ---
 title: "공정"
 layout: category
-permalink: /process/photo/
+permalink: /category/1/
 author_profile: true
 taxonomy: 공정
 sidebar:
   nav: "categories"
 ---
+
 
