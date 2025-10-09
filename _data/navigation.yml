@@ -21,11 +21,10 @@ categories:
   - title: "반도체"
     children:
         - title: "공정"
-          url: /process/introduce
-          url: /process/photo
+          url: /categories/process
           
         - title: "소자"
-          # url: /device
+          url: /categories/device
           
         - title: "설계"
           # url: /design
@@ -43,6 +42,7 @@ categories:
       - title: "공정"
         # url: /process
     
+
 
 
 
