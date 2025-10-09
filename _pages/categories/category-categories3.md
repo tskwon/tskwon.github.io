@@ -1,9 +1,10 @@
 ---
-title: "Categories3"
+title: "설계"
 layout: category
-permalink: /categories/categories3/
+permalink: /design
 author_profile: true
-taxonomy: Categories3
+taxonomy: 설계
 sidebar:
   nav: "categories"
 ---
+
