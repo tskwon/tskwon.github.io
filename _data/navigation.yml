@@ -20,13 +20,13 @@ main:
 categories:
   - title: "반도체"
     children:
-      - title: "Categories1"
+      - title: "공정"
         url: /categories/categories1/
-      - title: "Categories2"
+      - title: "소자"
         url: /categories/categories2/
-      - title: "Categories3"
+      - title: "설계"
         url: /categories/categories3/
-      - title: "Categories4"
+      - title: "메모리"
         url: /categories/categories4/
         
   - title: "기술"
@@ -39,4 +39,5 @@ categories:
       - title: "Categories7"
         url: /categories/categories7/
     
+
 
