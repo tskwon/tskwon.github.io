@@ -9,6 +9,7 @@ tags:
 
 permalink: /device/device1/
 
+
 toc: true
 toc_sticky: true
 

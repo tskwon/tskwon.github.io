@@ -35,12 +35,12 @@ categories:
   - title: "기술"
     children:
       - title: "공정"
-        # url: /process
+        url: /process/
     
   - title: "프로젝트"
     children:
       - title: "공정"
-        # url: /process
+        url: /process
     
 
 
