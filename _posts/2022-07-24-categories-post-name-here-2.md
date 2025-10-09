@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /process/introduce
+permalink: /process/introduce/
 
 toc: true
 toc_sticky: true
@@ -24,6 +24,7 @@ last_modified_at: 2025-10-09
 노광
 식각
 세정
+
 
 
 
