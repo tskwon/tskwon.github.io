@@ -21,27 +21,28 @@ categories:
   - title: "반도체"
     children:
         - title: "공정"
-          url: /process/
+          url: /categories/process/
           
         - title: "소자"
-          url: /device/
+          url: /categories/device/
           
         - title: "설계"
-          url: /design/
+          url: /categories/design/
           
         - title: "메모리"
-          url: /memory/
+          url: /categories/memory/
 
   - title: "기술"
     children:
       - title: "공정"
-        url: /process/
+        url: /categories/process/
     
   - title: "프로젝트"
     children:
       - title: "공정"
-        url: /process
+        url: /categories/process
     
+
 
 
 
