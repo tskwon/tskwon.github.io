@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /process/photo/
+permalink: /process/photo
 
 toc: true
 toc_sticky: true
@@ -19,3 +19,4 @@ last_modified_at: 2025-10-10
 ## 본문
 
 포토공정이란..
+
