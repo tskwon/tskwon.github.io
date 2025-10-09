@@ -3,7 +3,7 @@ title: "반도체 소자"
 excerpt: "PN 접합"
 
 categories:
-  - device
+  - 소자
 tags:
   - [tag1, tag2]
 
@@ -20,6 +20,7 @@ last_modified_at: 2022-07-24
 ## 🦥 본문
 
 본문은 여기에 ...
+
 
 
 
