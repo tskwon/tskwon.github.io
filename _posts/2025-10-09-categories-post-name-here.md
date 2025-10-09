@@ -12,8 +12,8 @@ permalink: /memory/memory1/
 toc: true
 toc_sticky: true
 
-date: 2025-10-10
-last_modified_at: 2025-10-10
+date: 2025-10-07
+last_modified_at: 2025-10-07
 ---
 
 ## 본문
