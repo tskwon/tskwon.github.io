@@ -21,9 +21,9 @@ categories:
   - title: "반도체"
     children:
       - title: "공정"
-        url: /categories/categories1/
+        url: /process/introduce/
       - title: "소자"
-        url: /categories/categories2/
+        url: /device/categories1/
       - title: "설계"
         url: /categories/categories3/
       - title: "메모리"
@@ -39,5 +39,6 @@ categories:
       - title: "Categories7"
         url: /categories/categories7/
     
+
 
 
