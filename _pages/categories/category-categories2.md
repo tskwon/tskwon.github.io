@@ -1,9 +1,10 @@
 ---
-title: "Categories2"
+title: "공정"
 layout: category
-permalink: /categories/categories2/
+permalink: /process/photo/
 author_profile: true
-taxonomy: Categories2
+taxonomy: 공정
 sidebar:
   nav: "categories"
 ---
+
