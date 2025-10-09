@@ -12,8 +12,8 @@ permalink: /categories/category1/
 toc: true
 toc_sticky: true
 
-date: 2025-10-10
-last_modified_at: 2025-10-10
+date: 2025-10-04
+last_modified_at: 2025-10-04
 ---
 
 ## 본문
