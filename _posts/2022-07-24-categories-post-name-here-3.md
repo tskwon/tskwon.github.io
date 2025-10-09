@@ -1,21 +1,21 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "포토 공정"
+excerpt: "반도체 공정중 포토 공정 원리 및 과정"
 
 categories:
-  - Categories3
+  - 공정
 tags:
   - [tag1, tag2]
 
-permalink: /categories3/post-name-here-3/
+permalink: /process/photo/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2025-10-10
+last_modified_at: 2025-10-10
 ---
 
-## 🦥 본문
+## 본문
 
-본문은 여기에 ...
+포토공정이란..
