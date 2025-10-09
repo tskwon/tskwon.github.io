@@ -22,13 +22,14 @@ categories:
     children:
       - title: "공정"
         url: /process/introduce/
-        url: /process/photo/
+        url: /process/introduce/
+        url: /process/introduce/
       - title: "소자"
-        url: /device/categories1/
+        url: /process/introduce/
       - title: "설계"
-        url: /categories/categories3/
+        url: /process/introduce/
       - title: "메모리"
-        url: /categories/categories4/
+        url: /process/introduce/
         
   - title: "기술"
     children:
@@ -40,6 +41,7 @@ categories:
       - title: "Categories7"
         url: /categories/categories7/
     
+
 
 
 
