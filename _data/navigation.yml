@@ -31,7 +31,8 @@ categories:
           
         - title: "메모리"
           url: /memory/
-        
+
+categories:
   - title: "기술"
     children:
       - title: "공정"
@@ -42,6 +43,7 @@ categories:
       - title: "공정"
         # url: /process
     
+
 
 
 
