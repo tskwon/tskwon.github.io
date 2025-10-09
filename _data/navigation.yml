@@ -18,16 +18,25 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "반도체 공정"
+  - title: "반도체"
     children:
-      url: /categories/categories1/
-  - title: "반도체 소자"
-    children:
-      url: /categories/categories2/
+      - title: "Categories1"
+        url: /categories/categories1/
+      - title: "Categories2"
+        url: /categories/categories2/
+      - title: "Categories3"
+        url: /categories/categories3/
+      - title: "Categories4"
+        url: /categories/categories4/
+        
   - title: "기술"
     children:
-      url: /categories/categories3/
+      - title: "Categories7"
+        url: /categories/categories7/
+    
   - title: "프로젝트"
     children:
-      url: /categories/categories4/
+      - title: "Categories7"
+        url: /categories/categories7/
     
+
