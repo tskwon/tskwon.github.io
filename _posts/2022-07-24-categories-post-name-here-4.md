@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /device/device1/
+permalink: /device/device/
 
 
 toc: true
@@ -20,6 +20,7 @@ last_modified_at: 2022-07-24
 ## 🦥 본문
 
 본문은 여기에 ...
+
 
 
 
