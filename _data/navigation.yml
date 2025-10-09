@@ -22,23 +22,27 @@ categories:
     children:
       - title: "공정"
         url: /process
+        
       - title: "소자"
         url: /device
+        
       - title: "설계"
         url: /design
+        
       - title: "메모리"
         url: /memory
         
   - title: "기술"
     children:
-      - title: "공정"
-        url: /device
+      - title: "설계"
+        url: /process
     
   - title: "프로젝트"
     children:
-      - title: "소자"
+      - title: "공정"
         url: /device
     
+
 
 
 
