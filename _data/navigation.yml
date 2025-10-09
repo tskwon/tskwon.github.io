@@ -33,15 +33,16 @@ categories:
           url: /categories/memory/
 
   - title: "기술"
-    children:
-      - title: "공정"
-        url: /categories/process/
+    # children:
+    #   - title: "공정"
+    #     url: /categories/process/
     
   - title: "프로젝트"
-    children:
-      - title: "공정"
-        url: /categories/process
+    # children:
+    #   - title: "공정"
+    #     url: /categories/process
     
+
 
 
 
