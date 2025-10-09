@@ -22,6 +22,7 @@ categories:
     children:
       - title: "공정"
         url: /process/introduce/
+        url: /process/photo/
       - title: "소자"
         url: /device/categories1/
       - title: "설계"
@@ -39,6 +40,7 @@ categories:
       - title: "Categories7"
         url: /categories/categories7/
     
+
 
 
 
