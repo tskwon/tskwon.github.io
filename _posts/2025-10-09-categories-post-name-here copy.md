@@ -1,13 +1,13 @@
 ---
-title: "소자"
-excerpt: "소자"
+title: "메모리"
+excerpt: "메모리"
 
 categories: 
-  - 소자
+  - 메모리
 tags:
   - [tag1, tag2]
 
-permalink: /device/device2/
+permalink: /memory/memory/
 
 toc: true
 toc_sticky: true
@@ -18,4 +18,4 @@ last_modified_at: 2025-10-10
 
 ## 본문
 
-소자
+메모리
