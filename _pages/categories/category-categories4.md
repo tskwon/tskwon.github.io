@@ -1,9 +1,10 @@
 ---
-title: "Categories4"
+title: "메모리"
 layout: category
-permalink: /categories/categories4/
+permalink: /memory
 author_profile: true
-taxonomy: Categories4
+taxonomy: 메모리
 sidebar:
   nav: "categories"
 ---
+
