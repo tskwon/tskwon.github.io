@@ -2,12 +2,12 @@
 title: "메모리"
 excerpt: "메모리"
 
-categories:
-  - 메모리
+categories: 
+  -[소자]
 tags:
   - [tag1, tag2]
 
-permalink: /memory/memory1/
+permalink: /device/device2
 
 toc: true
 toc_sticky: true
