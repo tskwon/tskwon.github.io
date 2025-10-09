@@ -1,10 +1,11 @@
 ---
 title: "공정"
 layout: category
-permalink: /categories/categories1/
+permalink: /공정/개론/
 author_profile: true
-taxonomy: Categories1
+taxonomy: 공정
 sidebar:
   nav: "categories"
 ---
+
 
