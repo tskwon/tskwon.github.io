@@ -31,14 +31,15 @@ categories:
         
   - title: "기술"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "공정"
+        url: /device
     
   - title: "프로젝트"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "소자"
+        url: /device
     
+
 
 
 
