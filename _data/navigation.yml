@@ -21,15 +21,13 @@ categories:
   - title: "반도체"
     children:
       - title: "공정"
-        url: /process/introduce/
-        url: /process/introduce/
-        url: /process/introduce/
+        url: /process
       - title: "소자"
-        url: /process/introduce/
+        url: /device
       - title: "설계"
-        url: /process/introduce/
+        url: /design
       - title: "메모리"
-        url: /process/introduce/
+        url: /memory
         
   - title: "기술"
     children:
@@ -41,6 +39,7 @@ categories:
       - title: "Categories7"
         url: /categories/categories7/
     
+
 
 
 
