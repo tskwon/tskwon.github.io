@@ -3,7 +3,7 @@ title: "소자"
 excerpt: "소자"
 
 categories: 
-  -소자
+  - 소자
 tags:
   - [tag1, tag2]
 
