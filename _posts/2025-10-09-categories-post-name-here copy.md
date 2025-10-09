@@ -3,11 +3,11 @@ title: "메모리"
 excerpt: "메모리"
 
 categories: 
-  - 메모리
+  - category1
 tags:
   - [tag1, tag2]
 
-permalink: /memory/memory/
+permalink: /categories/category1/
 
 toc: true
 toc_sticky: true
