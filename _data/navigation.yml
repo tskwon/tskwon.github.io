@@ -27,10 +27,10 @@ categories:
           url: /device/
           
         - title: "설계"
-          # url: /design
+          url: /design/
           
         - title: "메모리"
-          # url: /memory
+          url: /memory/
         
   - title: "기술"
     children:
@@ -42,6 +42,7 @@ categories:
       - title: "공정"
         # url: /process
     
+
 
 
 
